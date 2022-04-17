@@ -12,6 +12,9 @@
         font-size: 30px;
         text-align: center;
     }
+    .text-info{
+        font-family: cursive;
+    }
         /* Player turn space */
         #print {
             font-family: Verdana,
