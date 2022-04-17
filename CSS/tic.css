@@ -1,5 +1,7 @@
-
-    /* 3*3 Grid */
+    #main{
+        border-style: solid;
+    }
+        /* 3*3 Grid */
     #b1, #b2, #b3, #b4, #b5,
     #b6, #b7, #b8, #b9 {
         width: 80px;
@@ -15,6 +17,9 @@
             font-family: Verdana,
                 Geneva, Tahoma, sans-serif;
      
-            color: dodgerblue;
+            color: blue;
             font-size: 20px;
+        }
+       * b{
+            color: blue;
         }
