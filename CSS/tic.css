@@ -23,3 +23,9 @@
        * b{
             color: blue;
         }
+        .signature{
+            font-family: cursive;
+            text-align: center;
+            color: cadetblue;
+            font-style: italic;
+        }
