@@ -2,6 +2,7 @@ README.md
 # TIC TAC TOE
 #### April 17th 2022
 #### By **Lorenah M.**
+![TICTACTOE](https://user-images.githubusercontent.com/64461513/163715873-fdba713a-f0ec-4078-9e5b-d91066b707ed.png)
 
 ## Description
 
